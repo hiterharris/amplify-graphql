@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifygraphql",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/henryharrisiv/Desktop/Projects/amplify-graphql/amplify/backend/api/amplifygraphql/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
